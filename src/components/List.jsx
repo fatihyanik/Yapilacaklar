@@ -21,7 +21,7 @@ function List() {
   return (
     <StrictMode>
       <div className="kutu shadow-sm baslik">
-        <h1>Yapılacaklar</h1>
+        <h1>Yapılacaklar Listesi</h1>
       </div>
 
       <div className="kutu shadow-sm">
